@@ -1,2 +1,2 @@
 # winehot-www
-static content for winehot.be website
+static content for winehot website
